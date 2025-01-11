@@ -1,3 +1,13 @@
+https://avinash-portfolio-1.netlify.app/# 
+
+link to the site 
+
+
+
+
+
+
+
 Okay, so I have created my portfolio using HTML, CSS, and JavaScript.
 The portfolio showcases my skills and projects. It includes the following sections:
 
