@@ -1,13 +1,5 @@
 https://avinash-portfolio-1.netlify.app/# 
 
-link to the site 
-
-
-
-
-
-
-
 Okay, so I have created my portfolio using HTML, CSS, and JavaScript.
 The portfolio showcases my skills and projects. It includes the following sections:
 
@@ -33,6 +25,6 @@ How to Contribute:
 If you have any suggestions or improvements, feel free to fork the repository and create a pull request. Your contributions are welcome!
 
 Contact Information:
-For any inquiries or collaborations, you can reach me at [your-email@example.com].
+For any inquiries or collaborations, you can reach me at avinashguleria1009@gmail.com.
 
 Thank you for visiting my portfolio!
